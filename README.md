@@ -1,4 +1,4 @@
-# Arduino4chRemoteControl
+# 4Ch RemoteControl communication with Arduino
 Very simple example of IC2272/2262 4 channel wireless remote control kits communication with Arduino.
 Can find this product set below.
 
